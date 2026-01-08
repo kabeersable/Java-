@@ -7,6 +7,10 @@ public class Variables{
         char character = 'A';
         boolean isJavaFun = true;
 
+        // multiple varivale declaration
+
+        int a = 5 , b = 10 , c = 15 ;
+
         // final variable can not be changed 
         final int constantValue = 100;
 
@@ -16,6 +20,9 @@ public class Variables{
         System.out.println("this is float:" +decimalvalue);
         System.out.println("this is char:" +character);
         System.out.println("this is booleen values isJavaFun:" +isJavaFun);
+
+        // printing multiple variable 
+        System.out.println("Addition of a,b,c is:" +(a+b+c));   
 
         
 
