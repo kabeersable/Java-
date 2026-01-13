@@ -23,6 +23,7 @@ class SubClass extends SuperClass{
 
 }
 
+// final class cannot be inherited 
 
 
 public class Inheritance {
